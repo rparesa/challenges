@@ -12,6 +12,10 @@ The below questions should be answered regarding your submission!
 > Answer goes here!
 
 
+##### Did you complete any optional extensions to this assignment? If so, what? #####
+> Answer goes here!
+
+
 ##### Did you receive help from any other sources (classmates, etc)? If so, please list who (be specific!). #####
 > Answer goes here!
 
